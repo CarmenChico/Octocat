@@ -1,0 +1,60 @@
+img{
+  height: 250px;
+  border-style: solid;
+  border-color: lightgrey;
+  border-width: 2px;
+ 
+}
+
+.octodex {
+	
+}
+
+.octocat {
+	float: left;
+	border-bottom: solid lightgrey;
+	margin: 5px;
+}
+
+.image-footer {
+	background: lightblue;
+
+}
+
+.image-number {
+	background: lightgreen;
+	float: left;
+	font-size: 10px;
+	font-color: lightgrey;
+}
+
+.image-caption {
+	background: lightpurple;
+	height: 23px;
+	float:right;
+	border: none;
+}
+
+.authors {
+	float: right;
+
+}
+
+.authors img {
+	height:15px;
+	border: 0px;
+	margin: 0px;
+
+	
+}
+
+ul {
+	list-style-type: none;
+	padding: 0px;
+
+}
+
+a {
+	text-decoration: none;
+}
+
