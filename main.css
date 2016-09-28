@@ -27,11 +27,11 @@ img{
 	width: 0;
 	height: 0;
 	border-style: solid;
-	border-width: 7px 5px 0 5px;
+	border-width: 8px 7px 0 7px;
 	border-color: #aaaeb3 transparent transparent transparent;
 	position: absolute;
-	right: 0px;
-	top: -10px;
+	right: 4px;
+	top: -9px;
 }
 
 .image-footer {
